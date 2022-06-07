@@ -1,2 +1,2 @@
-# goit-markup-hw-01
+# https://pasichnik-v.github.io/goit-markup-hw-01/
 ДЗ N1
